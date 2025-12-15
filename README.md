@@ -1,2 +1,3 @@
 # Double-materiality-matrix
 Python-based double materiality matrix for H&amp;M Group
+This work develops a double materiality assessment for H&M Group and visualises the results in a Python‑based materiality matrix. The analysis uses a 1–5 scoring scale with decimals to position each material topic along two independent axes: financial materiality (impact on the business) and impact materiality (importance to stakeholders and society). Material topics are derived from H&M’s 2024 Annual and Sustainability Report and grouped into environmental, social and governance categories, which are differentiated in the chart through distinct point colours
